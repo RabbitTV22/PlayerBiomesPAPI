@@ -1,9 +1,6 @@
 package me.rabbittv.PlayerBiomes;
 
-import com.jeff_media.jefflib.BiomeUtils;
-
 import org.bukkit.Location;
-import org.bukkit.NamespacedKey;
 import org.bukkit.OfflinePlayer;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.entity.Player;
