@@ -1,5 +1,5 @@
 # PlayerBiomesPAPI
- A PlaceholderAPI extension to get the biome that the player is in. Supports custom biomes with version 1.21.3+.
+ A PlaceholderAPI extension to get the biome that the player is in. Supports custom biomes.
 
 ## Placeholders:
 Using biome terra:overworld/overworld/snowy_taiga as an example.
